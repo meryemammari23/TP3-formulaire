@@ -1,0 +1,8 @@
+/var/
+/vendor/
+/.cache/
+/.phpunit.result.cache
+.vscode/
+.idea/
+*.log
+.env.local
